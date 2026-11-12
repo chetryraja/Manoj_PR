@@ -121,15 +121,4 @@ graph TD
 
 ---
 
-## 5 Actionable Discussion Points for Your Stakeholder Meeting
 
-1. **"The Anti-HubSpot" Value Proposition:**  
-   Position our CRM as the modern, high-speed alternative for growing companies who have outgrown Pipedrive but refuse to pay HubSpot's \$50,000/year enterprise paywall or \$3,500 mandatory onboarding fees.
-2. **Feature Parity on High-Impact Gated Capabilities:**  
-   By offering **Custom Objects**, **Unlimited Pipelines**, and **Native Quotes/E-Sign** on standard tiers, we win 80% of sales evaluations against legacy tools.
-3. **Capture the Canadian Regional Greenfield:**  
-   Highlight that compliance with **CASL expiration tracking**, **Bill 96 French UI**, and **in-country data hosting (Montreal/Calgary)** opens municipal, legal, and mid-market RFPs where US competitors are automatically disqualified.
-4. **Product Usability as a Growth Engine:**  
-   Address customer fatigue with bloated, modal-heavy software (citing common HubSpot complaints). Pitch an interface focused on keyboard navigation, instantaneous search, sub-100ms load times, and clean UI without upsell spam.
-5. **Clear Monetization Path:**  
-   Recommend a clean 2- or 3-tier seat model (e.g., Starter vs. Growth vs. Scale) where tiers expand based on team scale, automation limits, and advanced permissions—never by crippling core operational capabilities.
