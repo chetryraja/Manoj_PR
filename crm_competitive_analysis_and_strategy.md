@@ -5,23 +5,6 @@
 
 ## Summary: The 3 Core Attack Vectors
 
-```mermaid
-flowchart LR
-    A["Market Disconnect"] --> B["Vector 1: Un-gate Enterprise Features<br/>(Custom Objects, Pipelines, CPQ)"]
-    A --> C["Vector 2: Eliminating Pricing Traps<br/>(No Onboarding Extortion, No Contact Tax)"]
-    A --> D["Vector 3: Canadian Regional Moat<br/>(CASL Expiry Engine, Bill 96 French, Local Data)"]
-    
-    B --> E["High-Velocity Mid-Market Adoption"]
-    C --> E
-    D --> E
-```
-
-1. **Unbundling the "Enterprise Gate":** Incumbents (especially HubSpot and Salesforce) hold essential operational features hostage behind 5x–10x tier jumps (e.g., custom objects at \$5,000/mo, custom permissions, sequences capped at 500/day). Offering these natively unlocks growing teams who feel priced out.
-2. **Transparent "Anti-Trap" Packaging:** Attack incumbent price traps directly: zero mandatory onboarding extortion fees (\$1,500–\$7,000 in HubSpot), no contact list taxes, and built-in quoting/e-sign without buying secondary add-on subscriptions.
-3. **The Canadian Compliance Moat:** Major US CRMs treat Canadian compliance as an afterthought. Building native **CASL consent tracking**, **Bill 96 French UI**, and **in-country data residency** provides immediate defensibility in Canadian public sector, financial, and mid-market tenders.
-
----
-
 ## Strategic Feature & Competitor Matrix
 
 ### 1. Core Sales & Pipeline Management
