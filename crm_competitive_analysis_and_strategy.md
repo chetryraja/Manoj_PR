@@ -46,8 +46,7 @@
 
 ### 4. Regional & Canadian Market Moats (High Defensibility)
 
-> [!IMPORTANT]
-> US-based incumbents treat Canada as an afterthought. Leveraging these compliance requirements unlocks enterprise and public sector deals that US competitors cannot close without complex customizations.
+
 
 | Regional Capability | Incumbent Handling | Incumbent Vulnerability | Our Differentiator & Moat |
 | :--- | :--- | :--- | :--- |
