@@ -57,30 +57,6 @@
 
 ---
 
-## Incumbent "Price Traps" to Design Around
-
-```mermaid
-graph TD
-    subgraph HubSpot / Salesforce Trap Architecture
-        T1["Trap 1: Mandatory Onboarding Fee<br/>($1,500 - $7,000 upfront)"]
-        T2["Trap 2: The Contact Tax<br/>(Exponential pricing on subscriber count)"]
-        T3["Trap 3: Feature Gating Hostage<br/>(Custom Objects locked to $50k+ Enterprise)"]
-        T4["Trap 4: Add-On Fragmentation<br/>(CPQ & E-Sign require extra subs)"]
-    end
-    
-    subgraph Our Counter-Positioning
-        C1["Zero-Friction Self-Serve Onboarding"]
-        C2["Fair Active-Usage Pricing"]
-        C3["Full Data Model on Standard Tiers"]
-        C4["All-in-One Quote, Sign & Collect Included"]
-    end
-
-    T1 -.-> C1
-    T2 -.-> C2
-    T3 -.-> C3
-    T4 -.-> C4
-```
-
 ### Breakdown of Competitor Price Traps
 
 1. **Mandatory Onboarding Extortion:**
