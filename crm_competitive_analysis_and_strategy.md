@@ -1,9 +1,6 @@
 # CRM Competitive Matrix & Strategic Positioning
 
 
----
-
-## Summary: The 3 Core Attack Vectors
 
 ## Strategic Feature & Competitor Matrix
 
